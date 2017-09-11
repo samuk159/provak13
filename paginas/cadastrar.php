@@ -10,7 +10,7 @@
 <link rel = "stylesheet" href = "../css/css.css" />
 </head>
 <body>-->
-<form id="formcadastro" method="post" action="../index.php?pg=salvar">
+<form id="formcadastro" method="post" action="index.php?pg=salvar">
 <table id="tabela_cadastro">
 <tr>
     <td> <label> Nome de Usuário: </label> </td>	
